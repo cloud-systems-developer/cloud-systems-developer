@@ -1,6 +1,4 @@
-## About Us
-
-## **The ByteBuilders-BD Team**
+## About Us - **The ByteBuilders-BD Team**
 
 <a href="https://github.com/lulzana/">
   <img src="https://contrib.rocks/image?repo=lulzana/lulzana" alt="lulzana">
