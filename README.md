@@ -1,5 +1,3 @@
-# We are Cloud Systems Developers
-
 ## About Us
 
 ## **The ByteBuilders-BD Team**
