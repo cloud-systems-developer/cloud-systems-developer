@@ -72,7 +72,7 @@ With a user-friendly interface and seamless navigation, ScoreStream aims to enha
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </p>
 
-## What I'm up to
+## What We are doing?
 
 - 😴 We are busy with Cloud Systems Engineering
 - 💻 We are building our **[ScoreStream-Project](https://github.com/cloud-systems-developer/score-stream)**
